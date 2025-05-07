@@ -1,4 +1,4 @@
-module TusFS
+module github.com/bobTheBuilder7/TusFS
 
 go 1.24.0
 
