@@ -1,4 +1,4 @@
-package github.com/bobTheBuilder7/TusFS
+package TusFS
 
 import (
 	"errors"
